@@ -4,7 +4,7 @@ The README is divided into 3 parts with each part having other subparts. Feel fr
 
 ## Structure
 
-The project is structured into three subjects - General Science, Physcial Science and Life Science. Each of these subjects have under it a bunch of other sub-topics. Before contributing, you should check under which topic your resource will belong.
+The project is structured into three subjects - General Science, Physical Science and Life Science. Each of these subjects have under it a bunch of other sub-topics. Before contributing, you should check under which topic your resource will belong.
 
 ## Adding a resource under a sub-topic
 
