@@ -23,7 +23,7 @@ Anything that doesn't in the categories below, or consists of several of these t
 #### Useful Links
 #### Youtube Channels
 - [Applied Science](https://www.youtube.com/user/bkraz333) - A channel about the applications of the science below.
-- [Cody's Lab](https://www.youtube.com/user/theCodyReeder) - Cody's lab is about a guy doing whatever he finds interesting, most of it invludes cool science experiments.
+- [Cody's Lab](https://www.youtube.com/user/theCodyReeder) - Cody's lab is about a guy doing whatever he finds interesting, most of it includes cool science experiments.
 - [EEVblog](https://www.youtube.com/c/EevblogDave/featured) - A channel about an Electrical Engineer who wants to help anyone interested.
 - [Kurzgesagt](https://www.youtube.com/c/inanutshell/featured) - A very well known Youtube channel, covers some speculative science.
 - [SciShow](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow) - This channel is really great, its topics spread across science and you always learn something new that you didn't expect from it.
@@ -36,7 +36,7 @@ Anything that doesn't in the categories below, or consists of several of these t
 Physical Science is a term for the branches of Natural Science that study systems that are not alive. Despite these systems not being alive, it does consist of biological topics.
 
 ### Physics:satellite:
-The study of how the Universe behaves, and is considered one of the oldest sciences. Also the study of matter, enery, and force, are some of the main topics.
+The study of how the Universe behaves, and is considered one of the oldest sciences. Also the study of matter, energy, and force, are some of the main topics.
 #### Tutorials
 #### Textbooks/Books
 #### Useful Links
@@ -84,7 +84,7 @@ The study of chemical processes within or relating to living organisms. This is 
 #### Youtube Channels
 
 ### Microbiology:microscope:
-The study of microorganisms, be it unicellular, multicellular, or acellular. This field contains the following disciplines:Virology, Bateriology, Protistology, Mycology, Immunology, and Parasitology.
+The study of microorganisms, be it unicellular, multicellular, or acellular. This field contains the following disciplines:Virology, Bacteriology, Protistology, Mycology, Immunology, and Parasitology.
 #### Tutorials
 #### Textbooks/Books
 #### Useful Links
