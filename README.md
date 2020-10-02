@@ -52,6 +52,7 @@ The study of matter and the changes it undergoes, more specialized than Physics 
 - [University of Nottingham](http://www.periodicvideos.com/) - Videos relating to Chemistry && other fun content
 #### Youtube Channels
 - [NileRed](https://www.youtube.com/user/TheRedNile) - This guy is the cornerstone of Chemistry on Youtube, really worth a watch if you're into the topics he covers!
+- [Periodic Videos](https://www.youtube.com/user/periodicvideos) - Hosted by a  highly experienced professor in the field of chemistry, Sir Martyn Poliakoff. He makes excellent videos about all things chemistry, including individual videos about each and every element!
 
 ### Earth Science:earth_americas:	
 Also known as Geoscience, this is just an all encompasing term for sciences related to Earth. Topics here include Geology, Oceanography, and Meteorology.
