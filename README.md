@@ -1,5 +1,6 @@
 # Awesome-Science 
-A collection of resources from the #science channel in The Programmers Hangout.
+A collection of resources from the #science channel in The Programmers Hangout. Please see the [contributions](https://github.com/the-programmers-hangout/awesome-science/blob/main/CONTRIBUTING.md) page before creating a PR.
+
 ## Navigation:world_map:
 - General Science
   - [General Science](#general-scienceseedling)
@@ -15,8 +16,7 @@ A collection of resources from the #science channel in The Programmers Hangout.
   - [Zoology](#zoologysloth)
   - [Ecology](#ecologyfallen_leafearth_americas)
   - [Evolutionary History](#evolutionary_history)
-- [Guidelines](#guidelinesscroll)
-  
+
 ## General Science:seedling:
 Anything that doesn't in the categories below, or consists of several of these topics, goes here!
 
