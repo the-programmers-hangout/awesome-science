@@ -124,8 +124,3 @@ The history of the evolution of organisms.
 #### Useful Links
 #### Youtube Channels
 
-### Guidelines:scroll:
-Please follow these general guidlines when contributing to this list!
-- Keep things in alphabetical order.
-- No metaphysics, religion, or pseudoscience.
-- Please keep to template given.
