@@ -30,6 +30,7 @@ Anything that doesn't in the categories below, or consists of several of these t
 - [TED-Ed](https://www.youtube.com/teded) - Covers more than just science, take a look and see what you would like to learn!
 - [The Thought Emporium](https://www.youtube.com/c/thethoughtemporium/featured) - This guy covers everything from Biology to Physics.
 - [Veritasium](https://www.youtube.com/c/veritasium) - Anything science related he finds interesting!
+- [Vsauce](https://www.youtube.com/c/vsauce1), [Vsauce2](https://www.youtube.com/user/Vsauce2) and [Vsauce3](https://www.youtube.com/user/Vsauce3) - Three YouTube channels, hosted by three different YouTubers, covering a broad range of topic from philosophy to maths to science fiction. Hosted by Michael Stevens, Kevin Lieber, and Jake Roper.
 
 ## Physical Science:mountain:	
 Physical Science is a term for the branches of Natural Science that study systems that are not alive. Despite these systems not being alive, it does consist of biological topics.
