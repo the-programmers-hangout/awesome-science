@@ -14,6 +14,8 @@ A collection of resources from the #science channel in The Programmers Hangout.
   - [Botany](#botanyhibiscus)
   - [Zoology](#zoologysloth)
   - [Ecology](#ecologyfallen_leafearth_americas)
+- [Guidelines](#guidelinesscroll)
+  
 ## General Science:seedling:
 Anything that doesn't in the categories below, or consists of several of these topics, goes here!
 
@@ -111,3 +113,9 @@ The study of organisms and their biophysical environment, including both biotic 
 #### Textbooks/Books
 #### Useful Links
 #### Youtube Channels
+
+### Guidelines:scroll:
+Please follow these general guidlines when contributing to this list!
+- Keep things in alphabetical order.
+- No metaphysics, religion, or pseudoscience.
+- Please keep to template given.
