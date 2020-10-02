@@ -18,7 +18,7 @@ A collection of resources from the #science channel in The Programmers Hangout.
 Anything that doesn't in the categories below, or consists of several of these topics, goes here!
 
 #### Tutorials
--[CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q) - A Youtube channel that is filled with courses that take you from 0 - 100 in knowledge.
+- [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q) - A Youtube channel that is filled with courses that take you from 0 - 100 in knowledge.
 #### Textbooks/Books
 #### Useful Links
 #### Youtube Channels
