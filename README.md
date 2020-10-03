@@ -21,13 +21,13 @@ A collection of resources from the #science channel in The Programmers Hangout. 
 Anything that doesn't in the categories below, or consists of several of these topics, goes here!
 
 #### Tutorials
-- [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q) - A Youtube channel that is filled with courses that take you from 0 - 100 in knowledge.
 - [Khan Academy](https://www.khanacademy.org/science) - A non-profit organization that contains many tutorials to help students learn about science online.
 #### Textbooks/Books
 #### Useful Links
 #### Youtube Channels
 - [Applied Science](https://www.youtube.com/user/bkraz333) - A channel about the applications of the science below.
 - [Cody's Lab](https://www.youtube.com/user/theCodyReeder) - Cody's lab is about a guy doing whatever he finds interesting, most of it includes cool science experiments.
+- [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q) - A Youtube channel that is filled with courses that take you from 0 - 100 in knowledge.
 - [EEVblog](https://www.youtube.com/c/EevblogDave/featured) - A channel about an Electrical Engineer who wants to help anyone interested.
 - [Kurzgesagt](https://www.youtube.com/c/inanutshell/featured) - A very well known Youtube channel, covers some speculative science.
 - [SciShow](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow) - This channel is really great, its topics spread across science and you always learn something new that you didn't expect from it.
