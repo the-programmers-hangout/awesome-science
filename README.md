@@ -43,6 +43,7 @@ Physical Science is a term for the branches of Natural Science that study system
 The study of how the Universe behaves, and is considered one of the oldest sciences. Also the study of matter, energy, and force, are some of the main topics.
 #### Tutorials
 #### Textbooks/Books
+- [A Brief History of Time](https://www.amazon.com/gp/product/B004WY3D0O/?tag=allencheng-20) - One of the most sold books on Physics, written by the greatest mind of the 20th century, Late. Prof. Stepehn Hawking, this book is an absolute must read, from a physics lover, to a person who gets bored with science. This book takes an approach to Physics that is unparalleled and truly, legendary.
 #### Useful Links
 - [Sixty Symbols](http://sixtysymbols.com/) - An interesting site about the various symbols found throughout Physics and Astronomy.
 - [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) - A playlist that covers everything you could ever want to know about the Universe, that we know about!
@@ -53,6 +54,7 @@ The study of how the Universe behaves, and is considered one of the oldest scien
 The study of matter and the changes it undergoes, more specialized than Physics as it focuses on composition, reactions, structure, and the properties of matter.
 #### Tutorials
 #### Textbooks/Books
+- [The Dissapearing Spoon](https://www.amazon.com/Disappearing-Spoon-Madness-Periodic-Elements/dp/0316051632) - Sam Kean has written arguably the best book in Analytical Chemistry, which is a highly enjoyable read and promises to explain concpets from chemistry woth ease through examples from various events written in world history.
 #### Useful Links
 - [University of Nottingham](http://www.periodicvideos.com/) - Videos relating to Chemistry && other fun content
 #### Youtube Channels
@@ -84,6 +86,7 @@ Life Science, commonly known as Biology, is the science of life and living organ
 The study of chemical processes within or relating to living organisms. This is a sub-discipline of Biology and Chemistry. It is related to the fields of: Molecular Biology, Cell Biology, Genetics, and Physiology.
 #### Tutorials
 #### Textbooks/Books
+- [The Selfish Gene](https://ia800107.us.archive.org/29/items/RichardDawkinsTheSelfishGene_201802/Richard_Dawkins_The_Selfish_Gene.pdf) - Legendary evolutionary biologist Richard Dawkins gives enthralling explanations of how the biochemistry works within humans, from the evolution of species to the way we think and act.
 #### Useful Links
 #### Youtube Channels
 
@@ -120,6 +123,7 @@ The study of organisms and their biophysical environment, including both biotic 
 The history of the evolution of organisms.
 #### Tutorials
 #### Textbooks/Books
+- [On the Origin of Species](http://darwin.amnh.org/files/images/pdfs/e83461.pdf) This is a magnum opus by Charles Darwin, a must read for all interested to understand the cycle of development in species from the words of the Father of Evolution.
 - [Sapiens](http://pdf.allbookshub.com/general/sapiens.pdf) - A groundbreaking work in the general evolution of human beings : the author takes us on an enthralling adventure to rediscover our past and our truth.
 - [Guns, Germs and Steel](https://www.docdroid.net/uUSO3JN/231929732-jared-diamond-guns-germs-steel-pdf#page=16) - Jared Diamond explains in this transdisciplinary Pulitzer Prize - winning book the history of human, and natural evolution and civilization.
 #### Useful Links
