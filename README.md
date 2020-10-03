@@ -88,6 +88,7 @@ The study of chemical processes within or relating to living organisms. This is 
 #### Textbooks/Books
 - [The Selfish Gene](https://ia800107.us.archive.org/29/items/RichardDawkinsTheSelfishGene_201802/Richard_Dawkins_The_Selfish_Gene.pdf) - Legendary evolutionary biologist Richard Dawkins gives enthralling explanations of how the biochemistry works within humans, from the evolution of species to the way we think and act.
 #### Useful Links
+- [Rosalind](http://rosalind.info/problems/locations/) - An awesome website which teaches not only about bioinformatics but also programming at the same time! 
 #### Youtube Channels
 
 ### Microbiology:microscope:
