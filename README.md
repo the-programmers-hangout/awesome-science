@@ -117,6 +117,8 @@ The study of the animal kingdom, both living and extinct.
 The study of organisms and their biophysical environment, including both biotic and abiotic components.
 #### Tutorials
 #### Textbooks/Books
+- [The Sixth Extinction](https://www.goodreads.com/book/show/17910054-the-sixth-extinction) - Elizabeth Kolbert writes a massive, revolutionary boom on the effect of humans and their actions on ecology, calling the current ecological situation "The Sixth Extinction".
+- [The Silent Spring](https://www.goodreads.com/book/show/27333.Silent_Spring) - Rachel Carson wrote this book as three excerpts originally in 1962, a cry to protect and preserve our ecosystem. A great read to understand human impact on the ecosystem in the 20th century.
 #### Useful Links
 #### Youtube Channels
 
