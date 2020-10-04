@@ -67,7 +67,7 @@ Also known as Geoscience, this is just an all encompasing term for sciences rela
 #### Textbooks/Books
 #### Useful Links
 #### Youtube Channels
-[Atlas Pro](https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w) - A cool channel about the geography, biogeography, and geology of Earth, and of some other planets!
+- [Atlas Pro](https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w) - A cool channel about the geography, biogeography, and geology of Earth, and of some other planets!
 
 ### Astronomy:milky_way:	
 The study of everything in outer space.
