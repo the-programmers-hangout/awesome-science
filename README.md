@@ -46,14 +46,14 @@ The study of how the Universe behaves, and is considered one of the oldest scien
 #### Textbooks/Books
 - [A Brief History of Time](https://www.amazon.com/gp/product/B004WY3D0O/?tag=allencheng-20) - One of the most sold books on Physics, written by the greatest mind of the 20th century, Late. Prof. Stepehn Hawking, this book is an absolute must read, from a physics lover, to a person who gets bored with science. This book takes an approach to Physics that is unparalleled and truly, legendary.
 #### Useful Links
+- [EPR Paradox](https://www.thoughtco.com/epr-paradox-in-physics-2699186)
 - [Sixty Symbols](http://sixtysymbols.com/) - An interesting site about the various symbols found throughout Physics and Astronomy.
 - [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) - A playlist that covers everything you could ever want to know about the Universe, that we know about!
-- [EPR Paradox](https://www.thoughtco.com/epr-paradox-in-physics-2699186)
 #### Youtube Videos
 - [Einstein's Twin Paradox](https://www.youtube.com/watch?v=h8GqaAp3cGs)
-- [Visualization of ltravelling at lightspeed](https://www.youtube.com/watch?v=i6AouFHLb2g)
-- [Time Dilation](https://www.youtube.com/watch?v=yuD34tEpRFw)
 - [Parallel Worlds](https://youtu.be/kTXTPe3wahc)
+- [Time Dilation](https://www.youtube.com/watch?v=yuD34tEpRFw)
+- [Visualization of ltravelling at lightspeed](https://www.youtube.com/watch?v=i6AouFHLb2g)
 #### Youtube Channels	
 - [MinutePhysics](https://www.youtube.com/user/minutephysics/about) - A channel about physics where the Youtuber explains by drawing. Ironically, his videos are over a minute.
 
