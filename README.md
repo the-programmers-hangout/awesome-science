@@ -46,7 +46,10 @@ The study of how the Universe behaves, and is considered one of the oldest scien
 #### Textbooks/Books
 - [A Brief History of Time](https://www.amazon.com/gp/product/B004WY3D0O/?tag=allencheng-20) - One of the most sold books on Physics, written by the greatest mind of the 20th century, Late. Prof. Stepehn Hawking, this book is an absolute must read, from a physics lover, to a person who gets bored with science. This book takes an approach to Physics that is unparalleled and truly, legendary.
 #### Useful Links
+- [Dark Matter - Basic Introduction](https://www.nasa.gov/multimedia/imagegallery/image_feature_827.html)
 - [EPR Paradox](https://www.thoughtco.com/epr-paradox-in-physics-2699186)
+- [Hubble Detects Dark Matter Clumps](https://www.nasa.gov/feature/goddard/2020/hubble-detects-smallest-known-dark-matter-clumps/)
+- [New Developments in the Dark Matter Theory](https://www.sciencedaily.com/releases/2020/09/200910150348.htm)
 - [Sixty Symbols](http://sixtysymbols.com/) - An interesting site about the various symbols found throughout Physics and Astronomy.
 - [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) - A playlist that covers everything you could ever want to know about the Universe, that we know about!
 #### Youtube Videos
@@ -83,10 +86,12 @@ The study of everything in outer space.
 #### Tutorials
 #### Textbooks/Books
 #### Useful Links
+- [NASA](https://www.nasa.gov) - The official NASA website where a lot of resources and information regarding astrophysics can be found.
 - [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) - A playlist that covers everything you could ever want to know about the Universe, that we know about!
 #### Youtube Videos
 #### Youtube Channels
 - [Anton Petrov](https://www.youtube.com/user/whatdamath) - Teaches subscribers through video games and simulations about situations and possibilites and their after effects.
+- [NASA](https://www.youtube.com/user/NASAtelevision)
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime/featured) - PBS always makes great content, and this channel is no exception to that rule. A great place to learn about this topic.
 - [Scott Manley](https://www.youtube.com/c/szyzyg/featured) - A really cool channel about a software developer who works with a lot of physical science - mainly stuff surrounding Astronomy. 
 
