@@ -18,7 +18,7 @@ A collection of resources from the #science channel in The Programmers Hangout. 
   - [Evolutionary History](#evolutionary_history)
 
 ## General Science:seedling:
-Anything that doesn't in the categories below, or consists of several of these topics, goes here!
+Anything that doesn't fall into the categories below, or consists of several of these topics, goes here!
 
 #### Tutorials
 - [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q) - A Youtube channel that is filled with courses that take you from 0 - 100 in knowledge.
@@ -56,7 +56,7 @@ The study of how the Universe behaves, and is considered one of the oldest scien
 - [Einstein's Twin Paradox](https://www.youtube.com/watch?v=h8GqaAp3cGs)
 - [Parallel Worlds](https://youtu.be/kTXTPe3wahc)
 - [Time Dilation](https://www.youtube.com/watch?v=yuD34tEpRFw)
-- [Visualization of ltravelling at lightspeed](https://www.youtube.com/watch?v=i6AouFHLb2g)
+- [Visualization of travelling at lightspeed](https://www.youtube.com/watch?v=i6AouFHLb2g)
 #### Youtube Channels	
 - [MinutePhysics](https://www.youtube.com/user/minutephysics/about) - A channel about physics where the Youtuber explains by drawing. Ironically, his videos are over a minute.
 
@@ -64,7 +64,7 @@ The study of how the Universe behaves, and is considered one of the oldest scien
 The study of matter and the changes it undergoes, more specialized than Physics as it focuses on composition, reactions, structure, and the properties of matter.
 #### Tutorials
 #### Textbooks/Books
-- [The Dissapearing Spoon](https://www.amazon.com/Disappearing-Spoon-Madness-Periodic-Elements/dp/0316051632) - Sam Kean has written arguably the best book in Analytical Chemistry, which is a highly enjoyable read and promises to explain concpets from chemistry woth ease through examples from various events written in world history.
+- [The Disappearing Spoon](https://www.amazon.com/Disappearing-Spoon-Madness-Periodic-Elements/dp/0316051632) - Sam Kean has written arguably the best book in Analytical Chemistry, which is a highly enjoyable read and promises to explain concepts from chemistry with ease through examples from various events written in world history.
 #### Useful Links
 - [University of Nottingham](http://www.periodicvideos.com/) - Videos relating to Chemistry && other fun content
 #### Youtube Videos
@@ -73,7 +73,7 @@ The study of matter and the changes it undergoes, more specialized than Physics 
 - [Periodic Videos](https://www.youtube.com/user/periodicvideos) - Hosted by a  highly experienced professor in the field of chemistry, Sir Martyn Poliakoff. He makes excellent videos about all things chemistry, including individual videos about each and every element!
 
 ### Earth Science:earth_americas:	
-Also known as Geoscience, this is just an all encompasing term for sciences related to Earth. Topics here include Geology, Oceanography, and Meteorology.
+Also known as Geoscience, this is just an all encompassing term for sciences related to Earth. Topics here include Geology, Oceanography, and Meteorology.
 #### Tutorials
 #### Textbooks/Books
 #### Useful Links
@@ -90,7 +90,7 @@ The study of everything in outer space.
 - [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) - A playlist that covers everything you could ever want to know about the Universe, that we know about!
 #### Youtube Videos
 #### Youtube Channels
-- [Anton Petrov](https://www.youtube.com/user/whatdamath) - Teaches subscribers through video games and simulations about situations and possibilites and their after effects.
+- [Anton Petrov](https://www.youtube.com/user/whatdamath) - Teaches subscribers through video games and simulations about situations and possibilities and their after effects.
 - [NASA](https://www.youtube.com/user/NASAtelevision)
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime/featured) - PBS always makes great content, and this channel is no exception to that rule. A great place to learn about this topic.
 - [Scott Manley](https://www.youtube.com/c/szyzyg/featured) - A really cool channel about a software developer who works with a lot of physical science - mainly stuff surrounding Astronomy. 
