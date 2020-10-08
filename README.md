@@ -46,12 +46,17 @@ The study of how the Universe behaves, and is considered one of the oldest scien
 #### Textbooks/Books
 - [A Brief History of Time](https://www.amazon.com/gp/product/B004WY3D0O/?tag=allencheng-20) - One of the most sold books on Physics, written by the greatest mind of the 20th century, Late. Prof. Stepehn Hawking, this book is an absolute must read, from a physics lover, to a person who gets bored with science. This book takes an approach to Physics that is unparalleled and truly, legendary.
 #### Useful Links
+- [Dark Energy](https://www.britannica.com/science/dark-energy)
 - [Dark Matter - Basic Introduction](https://www.nasa.gov/multimedia/imagegallery/image_feature_827.html)
+- [Dark Matter(CERN)](https://home.cern/science/physics/dark-matter)
+- [Dark Matter and Dark Energy](https://www.nationalgeographic.com/science/space/dark-matter/)
 - [EPR Paradox](https://www.thoughtco.com/epr-paradox-in-physics-2699186)
 - [Hubble Detects Dark Matter Clumps](https://www.nasa.gov/feature/goddard/2020/hubble-detects-smallest-known-dark-matter-clumps/)
+- [Is Dark matter theory or fact?](https://www.scientificamerican.com/article/is-dark-matter-theory-or/)
 - [New Developments in the Dark Matter Theory](https://www.sciencedaily.com/releases/2020/09/200910150348.htm)
 - [Sixty Symbols](http://sixtysymbols.com/) - An interesting site about the various symbols found throughout Physics and Astronomy.
 - [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) - A playlist that covers everything you could ever want to know about the Universe, that we know about!
+- [What would happen if you become Dark Matter](https://www.forbes.com/sites/startswithabang/2017/11/02/what-would-happen-if-you-became-dark-matter/#4c3848ca3fd2)
 #### Youtube Videos
 - [Einstein's Twin Paradox](https://www.youtube.com/watch?v=h8GqaAp3cGs)
 - [Parallel Worlds](https://youtu.be/kTXTPe3wahc)
@@ -129,6 +134,7 @@ The study of the animal kingdom, both living and extinct.
 #### Tutorials
 #### Textbooks/Books
 #### Useful Links
+- [How many atoms are in a person](https://science.howstuffworks.com/atoms-in-person.htm)
 #### Youtube Videos
 #### Youtube Channels
 - [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA) - The study of life on Earth, from over one billion years ago to present day.
