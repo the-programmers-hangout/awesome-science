@@ -83,6 +83,7 @@ The study of matter and the changes it undergoes, more specialized than Physics 
 Also known as Geoscience, this is just an all encompassing term for sciences related to Earth. Topics here include Geology, Oceanography, and Meteorology.
 #### Tutorials
 #### Textbooks/Books
+- [Geology: A Complete Introduction](https://www.amazon.ca/Geology-Complete-Introduction-David-Rothery/dp/147360155X) - A great book for anyone looking to get started learning about the basics of how the planet works.
 #### Useful Links
 #### Youtube Videos
 #### Youtube Channels
@@ -155,10 +156,11 @@ The study of organisms and their biophysical environment, including both biotic 
 The history of the evolution of organisms.
 #### Tutorials
 #### Textbooks/Books
-- [On the Origin of Species](http://darwin.amnh.org/files/images/pdfs/e83461.pdf) This is a magnum opus by Charles Darwin, a must read for all interested to understand the cycle of development in species from the words of the Father of Evolution.
+- [On the Origin of Species](http://darwin.amnh.org/files/images/pdfs/e83461.pdf) - This is a magnum opus by Charles Darwin, a must read for all interested to understand the cycle of development in species from the words of the Father of Evolution.
 - [Sapiens](http://pdf.allbookshub.com/general/sapiens.pdf) - A groundbreaking work in the general evolution of human beings : the author takes us on an enthralling adventure to rediscover our past and our truth.
 - [Guns, Germs and Steel](https://www.docdroid.net/uUSO3JN/231929732-jared-diamond-guns-germs-steel-pdf#page=16) - Jared Diamond explains in this transdisciplinary Pulitzer Prize - winning book the history of human, and natural evolution and civilization.
 #### Useful Links
 #### Youtube Videos
 #### Youtube Channels
+- [Moth Light Media](https://www.youtube.com/channel/UCOh5Ht3eB4914hMUfJkKa9g) - A channel that covers the evolution, and the history, of life on Earth.
 
