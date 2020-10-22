@@ -1,6 +1,8 @@
 # Awesome-Science 
 A collection of resources from the #science channel in The Programmers Hangout. Please see the [contributions](https://github.com/the-programmers-hangout/awesome-science/blob/main/CONTRIBUTING.md) page before creating a PR.
 
+If you are wanting to see past discussion topics within the server, head [here](https://github.com/the-programmers-hangout/awesome-science/blob/main/PAST-DISCUSSIONS.md).
+
 ## Navigation:world_map:
 - General Science
   - [General Science](#general-scienceseedling)
