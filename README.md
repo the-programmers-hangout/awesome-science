@@ -27,6 +27,7 @@ Anything that doesn't fall into the categories below, or consists of several of 
 - [Khan Academy](https://www.khanacademy.org/science) - A non-profit organization that contains many tutorials to help students learn about science online.
 #### Textbooks/Books
 #### Useful Links
+- [Quanta Magzine](https://www.quantamagazine.org) - Online publication covering advancements in Physics, Mathematics, Biology, and Computer Science.
 #### Youtube Videos
 #### Youtube Channels
 - [Applied Science](https://www.youtube.com/user/bkraz333) - A channel about the applications of the science below.
