@@ -158,7 +158,6 @@ The history of the evolution of organisms.
 #### Tutorials
 #### Textbooks/Books
 - [On the Origin of Species](http://darwin.amnh.org/files/images/pdfs/e83461.pdf) - This is a magnum opus by Charles Darwin, a must read for all interested to understand the cycle of development in species from the words of the Father of Evolution.
-- [Sapiens](http://pdf.allbookshub.com/general/sapiens.pdf) - A groundbreaking work in the general evolution of human beings : the author takes us on an enthralling adventure to rediscover our past and our truth.
 - [Guns, Germs and Steel](https://www.docdroid.net/uUSO3JN/231929732-jared-diamond-guns-germs-steel-pdf#page=16) - Jared Diamond explains in this transdisciplinary Pulitzer Prize - winning book the history of human, and natural evolution and civilization.
 #### Useful Links
 #### Youtube Videos
