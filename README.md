@@ -37,6 +37,7 @@ Anything that doesn't fall into the categories below, or consists of several of 
 - [SciShow](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow) - This channel is really great, its topics spread across science and you always learn something new that you didn't expect from it.
 - [TED-Ed](https://www.youtube.com/teded) - Covers more than just science, take a look and see what you would like to learn!
 - [The Thought Emporium](https://www.youtube.com/c/thethoughtemporium/featured) - This guy covers everything from Biology to Physics.
+- [Thoughty2](https://www.youtube.com/playlist?list=PL6M73eHVMlEyclCHRsbKUIQKKCzAraE7F) - A YouTuber who covers a wide variety of topics ranging from weird to interesting.
 - [Veritasium](https://www.youtube.com/c/veritasium) - Anything science related he finds interesting!
 - [Vsauce](https://www.youtube.com/c/vsauce1), [Vsauce2](https://www.youtube.com/user/Vsauce2) and [Vsauce3](https://www.youtube.com/user/Vsauce3) - Three YouTube channels, hosted by three different YouTubers, covering a broad range of topic from philosophy to maths to science fiction. Hosted by Michael Stevens, Kevin Lieber, and Jake Roper.
 
