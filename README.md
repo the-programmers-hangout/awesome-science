@@ -33,6 +33,7 @@ Anything that doesn't fall into the categories below, or consists of several of 
 - [Applied Science](https://www.youtube.com/user/bkraz333) - A channel about the applications of the science below.
 - [Cody's Lab](https://www.youtube.com/user/theCodyReeder) - Cody's lab is about a guy doing whatever he finds interesting, most of it includes cool science experiments.
 - [EEVblog](https://www.youtube.com/c/EevblogDave/featured) - A channel about an Electrical Engineer who wants to help anyone interested.
+- [It's Okay To Be Smart](https://www.youtube.com/c/itsokaytobesmart/) - Hosted by Joe Hanson, Ph.D., covering a large variety of intriguing scientific topics, mostly related to the life sciences. 
 - [Kurzgesagt](https://www.youtube.com/c/inanutshell/featured) - A very well known Youtube channel, covers some speculative science.
 - [SciShow](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow) - This channel is really great, its topics spread across science and you always learn something new that you didn't expect from it.
 - [TED-Ed](https://www.youtube.com/teded) - Covers more than just science, take a look and see what you would like to learn!
@@ -164,4 +165,5 @@ The history of the evolution of organisms.
 #### Youtube Videos
 #### Youtube Channels
 - [Moth Light Media](https://www.youtube.com/channel/UCOh5Ht3eB4914hMUfJkKa9g) - A channel that covers the evolution, and the history, of life on Earth.
+
 
