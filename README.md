@@ -30,6 +30,7 @@ Anything that doesn't fall into the categories below, or consists of several of 
 - [Quanta Magzine](https://www.quantamagazine.org) - Online publication covering advancements in Physics, Mathematics, Biology, and Computer Science.
 #### Youtube Videos
 #### Youtube Channels
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - A channel covering various interesting topics related to mathematics.
 - [Applied Science](https://www.youtube.com/user/bkraz333) - A channel about the applications of the science below.
 - [Cody's Lab](https://www.youtube.com/user/theCodyReeder) - Cody's lab is about a guy doing whatever he finds interesting, most of it includes cool science experiments.
 - [EEVblog](https://www.youtube.com/c/EevblogDave/featured) - A channel about an Electrical Engineer who wants to help anyone interested.
