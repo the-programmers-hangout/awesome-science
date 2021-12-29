@@ -11,6 +11,7 @@ If you are wanting to see past discussion topics within the server, head [here](
   - [Earth Science](#earth-scienceearth_americas)
   - [Astronomy](#astronomymilky_way)
 - [Life Science](#life-sciencemonkey)
+  - [Human Biology] 
   - [Biochemistry](#biochemistrydna)
   - [Microbiology](#microbiologymicroscope)
   - [Botany](#botanyhibiscus)
@@ -109,6 +110,14 @@ The study of everything in outer space.
 
 ## Life Science:monkey:	
 Life Science, commonly known as Biology, is the science of life and living organisms. This also includes their structures, processes, interactions, mechanisms, development, and evolution.
+
+### Human Biology🚴‍♂️
+#### Tutorials
+#### Textbooks/Books
+#### Useful Links
+#### Youtube Videos
+- [Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D) - A playlist containing 25 lectures by Stanford professor Robert Sapolsky of the course entitled Human Behavioral Biology.
+#### Youtube Channels
 
 ### Biochemistry:dna:	
 The study of chemical processes within or relating to living organisms. This is a sub-discipline of Biology and Chemistry. It is related to the fields of: Molecular Biology, Cell Biology, Genetics, and Physiology.
