@@ -11,7 +11,7 @@ If you are wanting to see past discussion topics within the server, head [here](
   - [Earth Science](#earth-scienceearth_americas)
   - [Astronomy](#astronomymilky_way)
 - [Life Science](#life-sciencemonkey)
-  - [Human Biology] 
+  - [Human Biology](#human-biology%EF%B8%8F)
   - [Biochemistry](#biochemistrydna)
   - [Microbiology](#microbiologymicroscope)
   - [Botany](#botanyhibiscus)
