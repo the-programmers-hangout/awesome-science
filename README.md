@@ -4,14 +4,13 @@ A collection of resources from the #science channel in The Programmers Hangout. 
 If you are wanting to see past discussion topics within the server, head [here](https://github.com/the-programmers-hangout/awesome-science/blob/main/PAST-DISCUSSIONS.md).
 
 ## Navigation:world_map:
-- General Science
-  - [General Science](#general-scienceseedling)
-- Physical Science
+- [General Science](#general-scienceseedling)
+- [Physical Science](#physical-sciencemountain)
   - [Physics](#physicssatellite)
   - [Chemistry](#chemistrytest_tube)
   - [Earth Science](#earth-scienceearth_americas)
   - [Astronomy](#astronomymilky_way)
-- Life Science
+- [Life Science](#life-sciencemonkey)
   - [Biochemistry](#biochemistrydna)
   - [Microbiology](#microbiologymicroscope)
   - [Botany](#botanyhibiscus)
